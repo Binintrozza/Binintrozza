@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yuteaz and I'm a Developer Roblox Scripting  </h2>
+<h2 align="left">Hi 👋! My name is Yuteaz and I'm a Developer Roblox Scripting - A Newbie for everything </h2>
 
 ###
 
